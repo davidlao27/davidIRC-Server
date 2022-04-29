@@ -1,0 +1,9 @@
+-- 1XX Success Codes --
+100 Accepted and Connected
+101 Message Sent and Distributed
+
+-- 2XX Waiting For --
+200 Waiting for First Packet
+
+-- 3XX Denied --
+300 Username Already Chosen

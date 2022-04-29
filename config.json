@@ -1,0 +1,5 @@
+{
+"port": "4127",
+"ssl_cert_path": "./cert.pem",
+"ssl_key_path": "./privkey.pem"
+}

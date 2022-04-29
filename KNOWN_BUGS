@@ -1,0 +1,9 @@
+// KNOWN BUGS //
+//
+// x means yes
+// ~ means undecided
+
+1. When using extraSecurity while false, it mixes client names of the same IP.
+------------------------------------------------------------------------------
+[x] Important
+[~] Will fix later
